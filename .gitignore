@@ -1,0 +1,7 @@
+build/*
+debian/build/*
+debian/com.github.christophernugent.boulder.debhelper.log
+debian/com.github.christophernugent.boulder.substvars
+debian/com.github.christophernugent.boulder/
+debian/debhelper-build-stamp
+debian/files

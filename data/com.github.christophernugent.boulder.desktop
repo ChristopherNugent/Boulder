@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Boulder
+Comment=Get stuff done, when it needs to be done.
+Icon=com.github.christophernugent.boulder
+Exec=com.github.christophernugent.boulder
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;
+Keywords=app;vala;
