@@ -1,3 +1,10 @@
+# Note
+
+The below is a template for a good looking README provided by Archetype. It will be filled in with more information
+as the Boulder approaches its initial release.
+
+-----
+
 <div align="center">
   <span align="center"> <img width="80" height="70" class="center" src="https://github.com/ChristopherNugent/Boulder/blob/master/data/images/com.github.christophernugent.boulder.png" alt="Icon"></span>
   <h1 align="center">Boulder</h1>
